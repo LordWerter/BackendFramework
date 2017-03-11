@@ -17,31 +17,5 @@ PSRs you support to avoid any confusion with users and contributors.
 Via Composer
 
 ``` bash
-$ composer require league/skeleton
+$ composer require a-rudenko/backendframework
 ```
-
-## Usage
-
-``` php
-$skeleton = new League\Skeleton();
-echo $skeleton->echoPhrase('Hello, League!');
-```
-
-## Testing
-
-``` bash
-$ phpunit
-```
-
-## Contributing
-
-Please see [CONTRIBUTING](https://github.com/thephpleague/:package_name/blob/master/CONTRIBUTING.md) for details.
-
-## Credits
-
-- [:author_name](https://github.com/:author_username)
-- [All Contributors](https://github.com/thephpleague/:package_name/contributors)
-
-## License
-
-The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
