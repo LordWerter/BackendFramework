@@ -7,7 +7,7 @@
 [![Quality Score](https://img.shields.io/scrutinizer/g/thephpleague/skeleton.svg?style=flat-square)](https://scrutinizer-ci.com/g/thephpleague/skeleton)
 [![Total Downloads](https://img.shields.io/packagist/dt/league/skeleton.svg?style=flat-square)](https://packagist.org/packages/league/skeleton)
 
-**Note:** Replace `BackendFramework` with the correct package name in the above URLs, then delete this line.
+**Note:** Replace `BackendFramework`.
 
 This is where your description should go.
 
